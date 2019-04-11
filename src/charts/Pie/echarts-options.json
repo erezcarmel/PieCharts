@@ -1,0 +1,34 @@
+{
+  "title": {
+    "text": "",
+    "left": "center",
+    "top": "40%",
+    "textStyle": {
+      "lineHeight": 25
+    }
+  },
+  "tooltip": {
+    "trigger": "item",
+    "formatter": "{b}: {c} ({d}%)"
+  },
+  "legend": {
+    "orient": "vertical",
+    "x": "right",
+    "y": "center",
+    "padding": 30,
+    "data":[]
+  },
+  "series": [
+    {
+      "type": "pie",
+      "label": {
+        "normal": {
+          "show": false
+        }
+      },
+      "radius": ["60%", "70%"],
+      "avoidLabelOverlap": false,
+      "data":[]
+    }
+  ]
+}

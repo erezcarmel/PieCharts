@@ -1,0 +1,49 @@
+{
+  "chart": {
+    "height": 250,
+    "type": "pie",
+    "backgroundColor": "transparent"
+  },
+  "title": {
+    "text": "",
+    "align": "center",
+    "verticalAlign": "middle",
+    "x": -55,
+    "y": 0,
+    "style": {
+      "fontSize": "24px"
+    }
+  },
+  "subtitle": {
+    "text": "Total",
+    "align": "center",
+    "verticalAlign": "middle",
+    "x": -55,
+    "y": 30,
+    "style": {
+      "fontSize": "20px"
+    }
+  },
+  "plotOptions": {
+    "pie": {
+      "allowPointSelect": true,
+      "cursor": "pointer",
+      "dataLabels": {
+        "enabled": false
+      },
+      "showInLegend": true
+    }
+  },
+  "legend": {
+    "enabled": true,
+    "align": "right",
+    "verticalAlign": "middle",
+    "layout": "vertical",
+    "itemMarginTop": 5,
+    "itemMarginBottom": 5
+  },
+  "series": [{
+    "innerSize": "85%",
+    "data": []
+  }]
+}

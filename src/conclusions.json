@@ -1,0 +1,105 @@
+{
+  "recharts": {
+    "title": "Recharts",
+    "size": "535 kb",
+    "url": "http://recharts.org/en-US/examples/",
+    "comments": {
+      "pros": [
+        "Free",
+        "Easy to use",
+        "React-oriented",
+        "Responsive",
+        "Very good documentation",
+        "Testable"
+      ],
+      "cons": [
+        "No Sunburst"
+      ]
+    }
+  },
+  "echarts": {
+    "title": "ECharts",
+    "size": "62 kb",
+    "url": "https://ecomfe.github.io/echarts-doc/public/en/option.html#series-pie",
+    "comments": {
+      "pros": [
+        "Free",
+        "Easy to use",
+        "Very good documentation",
+        "Very configurable",
+        "Testable",
+        "Built-in Sunburst"
+      ],
+      "cons": [
+      ]
+    }
+  },
+  "victory": {
+    "title": "Victory",
+    "size": "12 kb + Charts",
+    "url": "https://formidable.com/open-source/victory/docs/",
+    "comments": {
+      "pros": [
+        "Free",
+        "Easy to use",
+        "React-oriented",
+        "Good documentation",
+        "Testable"
+      ],
+      "cons": [
+        "No Sunburst"
+      ]
+    }
+  },
+  "vis": {
+    "title": "React-VIS",
+    "size": "491 kb",
+    "url": "http://uber.github.io/react-vis/examples/showcases/radial",
+    "comments": {
+      "pros": [
+        "Free",
+        "React-oriented",
+        "Testable",
+        "Built-in Sunburst"
+      ],
+      "cons": [
+        "Hard to use"
+      ]
+    }
+  },
+  "anychart": {
+    "title": "Anychart",
+    "size": "2.14 mb",
+    "url": "https://docs.anychart.com/Basic_Charts/Doughnut_Chart",
+    "comments": {
+      "pros": [
+        "Easy to use",
+        "Good documentation",
+        "Decent React configuration",
+        "Testable",
+        "Built-in Sunburst",
+        "Built-in Venn diagram"
+      ],
+      "cons": [
+        "$$$"
+      ]
+    }
+  },
+  "highchart": {
+    "title": "Highchart",
+    "size": "9.51 mb",
+    "url": "https://api.highcharts.com/highcharts/series.pie",
+    "comments": {
+      "pros": [
+        "Easy to use",
+        "Good documentation",
+        "Configurable",
+        "Testable",
+        "Built-in Sunburst"
+      ],
+      "cons": [
+        "$$$"
+      ]
+    }
+  }
+}

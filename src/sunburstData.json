@@ -1,0 +1,52 @@
+{
+  "title": "Function",
+  "children": [
+    {
+      "title": "Computer",
+      "size": 3534
+    },
+    {
+      "title": "Healthcare",
+      "children": [
+        {"title": "Infusion pump", "size": 3534},
+        {"title": "Ergomerty", "size": 5731},
+        {"title": "Patient Monitor", "size": 7840}
+      ]
+    },
+    {
+      "title": "Accessories",
+      "children": [
+        {"title": "Accessory 1", "size": 5731},
+        {"title": "Accessory 2", "size": 450}
+      ]
+    },
+    {
+      "title": "Mobile",
+      "children": [
+        {"title": "Mobile 1","size": 7074},
+        {"title": "Mobile 2", "size": 2500}
+      ]
+    },
+    {
+      "title": "Networking",
+      "children": [
+        {"title": "Networking 1", "size": 7074},
+        {"title": "Networking 2", "size": 2500},
+        {"title": "Networking 3", "size": 2500}
+      ]
+    },
+    {
+      "title": "Wearable",
+      "size": 7074
+    },
+    {
+      "title": "Other",
+      "children": [
+        {"title": "Other 1", "size": 7074},
+        {"title": "Other 2", "size": 2500},
+        {"title": "Other 3", "size": 500},
+        {"title": "Other 4", "size": 250}
+      ]
+    }
+  ]
+}

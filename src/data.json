@@ -1,0 +1,66 @@
+[
+  {
+    "value": "Computer",
+    "count": 25,
+    "others": false,
+    "children": [
+      {
+        "value": "Server",
+        "count": 4,
+        "others": false
+      },
+      {
+        "value": "ICS Supervisory",
+        "count": 11,
+        "others": false
+      },
+      {
+        "value": "Specific purpose workstation",
+        "count": 5,
+        "others": false
+      },
+      {
+        "value": "Specific purpose workstation",
+        "count": 5,
+        "others": false
+      }
+    ]
+  },
+  {
+    "value": "Mobile",
+    "count": 179,
+    "others": false,
+    "children": [
+      {
+        "value": "Smartphone",
+        "count": 34,
+        "others": false
+      },
+      {
+        "value": "Tablet",
+        "count": 40,
+        "others": false
+      },
+      {
+        "value": "Personal Media Device",
+        "count": 105,
+        "others": false
+      }
+    ]
+  },
+  {
+    "value": "Accessory",
+    "count": 7,
+    "others": false
+  },
+  {
+    "value": "Gaming",
+    "count": 5,
+    "others": false
+  },
+  {
+    "value": "Facilities",
+    "count": 2,
+    "others": false
+  }
+]
